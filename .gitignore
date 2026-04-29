@@ -1,0 +1,16 @@
+/.venv
+/.vscode
+/algoritmes.py
+/class_sportsmen.py
+/contacts_base_GUI.py
+/func_prog.py
+/interface.py
+/linear_algebra_matrix.py
+/linear_algebra_vectors.py
+/logistic_regression.py
+/main.py
+/math_statistics.py
+/spec_prog_lang.py
+/statistics_GUI.py
+/yandex_coderun.py
+/yandex_edu.py
